@@ -1,0 +1,109 @@
+body {
+	background-image: url(https://img2.goodfon.ru/original/4916x3277/9/ce/background-water-voda-fon.jpg);
+	background-repeat: repeat-x;
+}
+.all {
+	margin: 0 auto;
+	background-color: yellow;
+	background-position: 50% 50%;
+	background-repeat: none;
+	width: 600px;
+	height: 1925px;
+}
+
+/* HEADER */
+
+header {
+	text-align: center;
+	text-decoration: underline;
+	text-transform: uppercase;
+	background-color: red;
+	color: white;
+	height: 100px;	
+}
+header h1{
+	background: #fc0; /* Цвет фона */
+    box-shadow: 0 0 10px rgba(1,0,3,0.5); /* Параметры тени */
+    padding: 10px;
+}
+
+/* CONTENT */
+.photo{
+	text-align: center;
+	background-color: grey;
+}
+.photo img{
+	border: dotted;
+	border-width: 30px;
+	border-radius: 30%;
+	border-color: blue;
+	border-bottom-left-radius: 	50%;
+	border-top-right-radius: 	50%;
+}
+.aboutmyself {
+	margin: 0px 10px;
+	text-decoration-line: solid black;
+	background-color: red;
+	color: white;
+	text-transform: uppercase;
+	color: white;
+	text-align: center;
+	}
+.purpose {
+	margin: 0px 10px;
+	background-color: black;
+	color: white;
+}
+.purpose h2{
+	text-align: center;
+	padding-top: 10px;
+}
+.purpose p{
+	padding-left: 10px;
+	padding-bottom: 10px;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+   text-transform: capitalize;
+}
+.education{
+	margin: 0px 10px;
+	background-color: red;
+}
+.education p{
+	text-align: justify;
+	margin: 10px 10px;
+}
+.skills{background-color: black;
+	color: white;
+		margin: 0px 10px;}
+.Language{
+	background-image: url();
+	margin: 0px 10px;
+}
+.Language ul{
+	list-style-type: decimal;
+}
+.Experience{
+	background-color: black;
+	color: black;
+	margin: 0px 10px;
+}
+.Experience h2 {
+		color: white;
+		text-align: center;	
+}
+
+.back {
+	background-color: brown;
+	padding: 0px 5px 5px 5px;
+}
+.back form{
+	margin: 0px 10px;
+}
+
+/* FOOTER */
+
+footer {
+	text-align: center;
+	background-color: green;
+}
